@@ -1472,6 +1472,7 @@
       "minecraft:beach": "2024-11-17 20:18:03 -0200",
       "minecraft:dark_forest": "2024-11-17 21:58:02 -0200",
       "minecraft:river": "2024-11-17 18:54:53 -0200",
+      "minecraft:snowy_taiga": "2024-11-18 16:10:08 -0200",
       "minecraft:birch_forest_hills": "2024-11-17 20:18:37 -0200",
       "minecraft:wooded_mountains": "2024-11-17 22:22:55 -0200",
       "minecraft:wooded_hills": "2024-11-17 21:28:14 -0200",
@@ -1581,6 +1582,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-11-17 18:23:40 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/pinap_juice": {
+    "criteria": {
+      "has_berry": "2024-11-18 16:06:59 -0200"
     },
     "done": true
   },
@@ -1989,6 +1996,12 @@
   "pixelmon:recipes/decor/terrain/poke_dirt": {
     "criteria": {
       "has_dirt": "2024-11-17 18:25:27 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-11-18 16:12:39 -0200"
     },
     "done": true
   },
@@ -2690,6 +2703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-11-18 16:13:05 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-11-17 18:17:58 -0200"
@@ -3269,6 +3288,12 @@
   "pixelmon:recipes/blast_furnace/pink_apricorn": {
     "criteria": {
       "has_apricorn": "2024-11-17 21:01:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-11-18 16:13:05 -0200"
     },
     "done": true
   },
