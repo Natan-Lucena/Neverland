@@ -2339,6 +2339,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/equipment/dawn_stone/dawn_stone_equipment": {
+    "criteria": {
+      "has_dawn_stone": "2024-11-18 14:02:41 -0200"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/umbrella/brown_umbrella": {
     "criteria": {
       "has_wool": "2024-11-17 22:05:03 -0200"
@@ -2871,6 +2877,12 @@
   "pixelmon:recipes/decor/rug/light_blue_rug": {
     "criteria": {
       "has_wool": "2024-11-17 22:05:03 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:balls/ultra_ball_capture": {
+    "criteria": {
+      "ultra_ball_capture": "2024-11-18 14:27:54 -0200"
     },
     "done": true
   },
