@@ -1,0 +1,754 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-18 21:41:06 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-18 22:34:46 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+    "criteria": {
+      "has_poke_ball": "2024-11-18 21:34:20 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/skitty_smoothie": {
+    "criteria": {
+      "has_berry": "2024-11-18 22:33:07 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2024-11-18 21:32:27 -0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-11-18 21:42:22 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-18 21:41:06 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ultra_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2024-11-18 22:36:10 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-18 22:25:54 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/friend_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-11-18 22:34:46 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2024-11-18 21:37:44 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-11-18 21:56:27 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/net_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-18 22:34:46 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-18 21:49:43 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2024-11-18 21:40:57 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-18 22:34:46 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/old_running_boots": {
+    "criteria": {
+      "has_feather": "2024-11-18 21:43:50 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-11-18 21:47:22 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-11-18 21:43:50 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-18 21:42:22 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/terrain/poke_dirt": {
+    "criteria": {
+      "has_dirt": "2024-11-18 22:06:38 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2024-11-18 22:37:05 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2024-11-18 22:26:22 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:balls/great_ball_capture": {
+    "criteria": {
+      "great_ball_capture": "2024-11-18 22:19:19 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/colorful_juice": {
+    "criteria": {
+      "has_juice_berry_2": "2024-11-18 22:31:43 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-18 22:34:46 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dusk_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/roserade_tea": {
+    "criteria": {
+      "has_berry": "2024-11-18 22:33:07 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/safari_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-18 21:49:43 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/furnace/red_apricorn": {
+    "criteria": {
+      "has_apricorn": "2024-11-18 22:36:10 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_ball": {
+    "criteria": {
+      "has_poke_ball": "2024-11-18 21:34:20 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/poke_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2024-11-18 22:36:10 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-11-18 21:41:28 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-18 22:34:46 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-18 22:39:09 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/fast_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-18 21:41:06 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2024-11-18 21:33:25 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/badgecase/redbadgecase": {
+    "criteria": {
+      "has_apricorn": "2024-11-18 22:36:10 -0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-11-18 21:42:22 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-11-18 21:41:06 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_panel": {
+    "criteria": {
+      "has_poke_ball": "2024-11-18 21:34:20 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/love_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/yellow_juice": {
+    "criteria": {
+      "has_yellow_juice_berry_2": "2024-11-18 22:31:43 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-18 21:41:06 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-11-18 22:15:47 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:balls/safari_ball_capture": {
+    "criteria": {
+      "safari_ball_capture": "2024-11-18 21:37:44 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+    "criteria": {
+      "has_poke_ball": "2024-11-18 21:34:20 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2024-11-18 21:32:27 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2024-11-18 21:32:27 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2024-11-18 22:37:05 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-11-18 21:32:27 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-11-18 22:28:33 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
+    "criteria": {
+      "has_poke_ball": "2024-11-18 21:34:20 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-11-18 21:32:27 -0200",
+      "minecraft:taiga_hills": "2024-11-18 21:34:30 -0200"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/curry/mixed_mushrooms": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-18 21:49:43 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-18 22:03:52 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-18 21:42:22 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-18 21:42:22 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/red_juice": {
+    "criteria": {
+      "has_red_juice_berry_1": "2024-11-18 22:33:07 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-18 22:34:46 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-18 21:41:28 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-18 21:49:43 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/old_rod": {
+    "criteria": {
+      "has_string": "2024-11-18 21:41:06 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heal_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2024-11-18 22:36:10 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-18 21:41:06 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-11-18 21:57:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/silver_base": {
+    "criteria": {
+      "has_ingot": "2024-11-18 21:32:27 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-18 22:39:09 -0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-18 22:25:54 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/toast": {
+    "criteria": {
+      "has_bread": "2024-11-18 21:41:26 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-11-18 22:28:33 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-11-18 22:15:47 -0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-11-18 22:25:54 -0200"
+    },
+    "done": false
+  },
+  "pixelmon:recipes/decor/building_infrastructure/bridge_block": {
+    "criteria": {
+      "has_logs": "2024-11-18 21:42:22 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/great_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2024-11-18 22:36:10 -0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-11-18 21:42:22 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-11-18 22:28:33 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2024-11-18 22:26:22 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/nest_ball_lid": {
+    "criteria": {
+      "has_apricorn": "2024-11-18 22:36:10 -0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-18 21:47:22 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/stone_hammer": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-18 22:15:47 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-18 22:23:55 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-18 22:27:02 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
+    "criteria": {
+      "has_great_ball": "2024-11-18 21:34:26 -0200"
+    },
+    "done": true
+  },
+  "pixelmon:balls/repeat_ball_capture": {
+    "criteria": {
+      "repeat_ball_capture": "2024-11-18 21:55:17 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2024-11-18 22:43:06 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-18 22:23:55 -0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
